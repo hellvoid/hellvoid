@@ -1,5 +1,17 @@
-- 👋 Hi, my name is Ian Iglesias, @astron4ut in games. I'm 24 years old and i'm currently developing my personal projects in addition to looking for a job in a company that resides in Brazil. But I'm looking to live in the United States for a while.
-- 👀 I'm interested in working asap. 
-- 🌱 Currently learning what it takes to be a full stack developer.
-- 💞️ Try to be always creating and developing projects to leverage my codes.
-- 📫 Contact me via Linkedin in my bio or Discord @astron4ut#9695.
+## Olá me chamo Ian Iglesias, futuro dev Full Stack!
+<div align="center">
+  <a href="https://github.com/astron4ut">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astron4ut&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astron4ut&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
