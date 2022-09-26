@@ -9,6 +9,7 @@
   <img align="center" alt="astro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="astro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="astro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="right" alt="astro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1019373016964137033/1024008671597961226/astron4ut-profile.png">
 </div>
 
