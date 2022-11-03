@@ -13,5 +13,3 @@
   <a href="https://www.linkedin.com/in/hitbrah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/t5pg8y0yj6gc3t50rcfyazwqa?si=f68e143e2b41441b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xunhor&hide=Html&theme=nord_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hitbrah&theme=nord_dark)
