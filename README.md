@@ -1,5 +1,5 @@
 ## Hello World :coffee:
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://images.squarespace-cdn.com/content/v1/62cd8045d591bd17e69333bb/29c8d63c-40c2-4ec0-a1f0-72f3d942c722/RTFM+Logo-v2_red.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Me chamo Ian Iglesias, futuro <strong>RedTeam</strong> de CiberSecurity.<br>
