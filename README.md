@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Me chamo Ian Iglesias, futuro dev <strong>Full Stack</strong>.<br>
-  Atualmente estudando front-end.
+  Me chamo Ian Iglesias, futuro <strong>RedTeam</strong> de CiberSecurity.<br>
+  Atualmente estudando front-end [Javascript ES6 | HTML5 | CSS3]
 </p>
 
 <div> 
