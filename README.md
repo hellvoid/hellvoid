@@ -1,5 +1,5 @@
 ## Hello World :coffee:
-<img src="https://images.squarespace-cdn.com/content/v1/62cd8045d591bd17e69333bb/29c8d63c-40c2-4ec0-a1f0-72f3d942c722/RTFM+Logo-v2_red.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador">
+<img src="" min-width="250px" max-width="250px" width="250px" align="right" alt="">
 
 <p align="left"> 
   Cursando Ciência da Computação<br>
@@ -7,7 +7,7 @@
 </p>
 
 <div> 
-  <a href="https://www.instagram.com/ianiglesias01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:spacecodesistemas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hitbrah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_iansants/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:iansants1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iansants" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
