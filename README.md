@@ -2,7 +2,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/62cd8045d591bd17e69333bb/29c8d63c-40c2-4ec0-a1f0-72f3d942c722/RTFM+Logo-v2_red.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador">
 
 <p align="left"> 
-  Me chamo Ian Iglesias, futuro <strong>RedTeam</strong> de CyberSecurity.<br>
+  Cursando Ciência da Computação<br>
   Atualmente estudando front-end [Javascript ES6 | HTML5 | CSS3]
 </p>
 
