@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Cursando Ciência da Computação<br>
-  Atualmente estudando front-end [Javascript ES6 | HTML5 | CSS3]
+  Atualmente estudando front-end Javascript ES6 | HTML5 | CSS3
 </p>
 
 <div> 
