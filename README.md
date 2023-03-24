@@ -3,8 +3,11 @@
 
 <p align="left"> 
   Cursando Ciência da Computação<br>
-  Atualmente estudando front-end Javascript ES6 | HTML5 | CSS3
+  Atualmente estudando front-end 
 </p>
+<p>
+  Javascript ES6 | HTML5 | CSS3
+</p>  
 
 <div> 
   <a href="https://www.instagram.com/_iansants/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
