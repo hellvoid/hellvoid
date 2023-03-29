@@ -17,5 +17,5 @@
 ##
   
 <div align="center">
-  <img height="150vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/7ad67a491ecf70162c96820f2428498960e5283a/assets/potencia-tech-angular-ifood.png" />
+  <img height="200vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/db6ddb0bfac6313b354b9ed116c0c0b22fab0693/assets/potencia-tech-angular-ifood.png" />
 </div>
