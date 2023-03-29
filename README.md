@@ -17,7 +17,20 @@
 ##
   
 <div align="center">
+  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/main/assets/html-developer.png" />
+
+  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/main/assets/css-developer.png" />
+
+  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/main/assets/linux-fundamentals.png" />
+
   <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/db6ddb0bfac6313b354b9ed116c0c0b22fab0693/assets/potencia-tech-angular-ifood.png" />
 
-  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/main/assets/linux-experience.png" />
+  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/main/assets/fullstack-typescript-developer.png" />
+</div>
+
+<div align="center">
+  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/main/assets/linux-do-zero.png" />
+
+  <img height="180vh" src="https://github.com/ian-iglesias/ian-iglesias/blob/b0d5dd4ccbd909a1047a543e60a112889d222714/assets/linux-experience.png" />
+
 </div>
